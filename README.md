@@ -1,2 +1,2 @@
-# relaxr_practice
-practice doing basic FEWD layout
+# relaxr_blog_practice
+practice for creating basic fewd elements
